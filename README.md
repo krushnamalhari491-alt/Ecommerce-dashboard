@@ -33,7 +33,7 @@ This project is an interactive Power BI dashboard designed to analyze e-commerce
 
 Add your dashboard screenshot here:
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/krushnamalhari491-alt/Ecommerce-dashboard/blob/main/Snapshot%20of%20the%20Dashboard%20(2).png)
 
 📁 Project Structure
 
